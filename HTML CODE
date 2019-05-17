@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/main.css">
+</head>
+
+<body>
+    <div class="site-name">
+        <span><img src="./assets/latte.png" class="site-image"></span>
+        <span><img src="./assets/latte.png" class="site-image2"></span>
+        <span>Star Bucks</span>
+    </div>
+
+    <div class="menu-list">
+        <a href="./home.html" class="menu-item">Home</a>
+        <a href="./menu.html" class="menu-item">Menu</a>
+        <a href="./about-us.html" class="menu-item">About Us</a>
+    </div>
+    
+
+    <div class="bg" >
+        <span><img src="./assets/home.jpg" class="bg"></span>
+        <div class="bg">
+            <h1>Sample text</h1>
+
+        </div>
+    </div>
+    
+</body>
+
+</html>
